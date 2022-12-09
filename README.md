@@ -1,4 +1,5 @@
 # Introduction to Computer Graphics
+【 NYCU 2022 Fall Semester 】by Professor 林奕成
 
 ### Languages and Tools
 C++, OpenGL, GLSL
